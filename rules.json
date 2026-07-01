@@ -1,0 +1,74 @@
+[
+  {
+    "keyword": "PayPayポイント運用",
+    "debit_account": "対象外",
+    "debit_tax_class": "対象外",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": "ポイント運用（プライベート）"
+  },
+  {
+    "keyword": "ポイント",
+    "debit_account": "対象外",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": ""
+  },
+  {
+    "keyword": "Apple",
+    "debit_account": "通信費",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": false,
+    "description": ""
+  },
+  {
+    "keyword": "ローソン",
+    "debit_account": "消耗品費",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": ""
+  },
+  {
+    "keyword": "SD",
+    "debit_account": "消耗品費",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": ""
+  },
+  {
+    "keyword": "星宿",
+    "debit_account": "消耗品費",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": ""
+  },
+  {
+    "keyword": "Uber",
+    "debit_account": "消耗品費",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": ""
+  },
+  {
+    "keyword": "オリーブ亭",
+    "debit_account": "消耗品費",
+    "debit_tax_class": "課税仕入 10%",
+    "credit_account": "普通預金",
+    "credit_subaccount": "PayPay",
+    "is_excluded": true,
+    "description": ""
+  }
+]

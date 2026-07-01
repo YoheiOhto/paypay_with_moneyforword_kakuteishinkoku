@@ -1,0 +1,11 @@
+[project]
+name = "paypay-with-moneyforward-kakuteishinkoku"
+version = "0.1.0"
+description = "PayPay CSV transaction sorter for MoneyForward Kakuteishinkoku"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.35.0",
+    "pandas>=2.0.0",
+    "plotly>=5.20.0",
+]
